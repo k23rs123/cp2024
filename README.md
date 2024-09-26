@@ -3,7 +3,7 @@
 ## Part 1
 This is README
 - item1
-- item2
+- item３
 
 ## Part 2
 1. sunday
